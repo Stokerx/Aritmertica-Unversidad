@@ -10,7 +10,6 @@ public class Aritmetica {
 
     public void sumar(){
        int resultado = a + b;
-       int nomb = a - b;
         System.out.println("resultado= " + resultado);
 
     }
