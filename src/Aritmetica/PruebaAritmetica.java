@@ -15,7 +15,7 @@ public class PruebaAritmetica {
 
        resultado = aritmetica1.aargumentoRetornos(5 , 8);
 
-        System.out.println("resultado = " + resultado);
+        System.out.println("resultado = " + resultado); // nuevo comentario
 
 
     }
