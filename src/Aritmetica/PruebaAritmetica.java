@@ -9,9 +9,13 @@ public class PruebaAritmetica {
 
         aritmetica1.sumar();
 
-        int resultado = aritmetica1.sumarConRetorno();
+        var resultado = aritmetica1.sumarConRetorno();
 
         System.out.println("resultado desde la clase de prueba retorno " + resultado);
+
+       resultado = aritmetica1.aargumentoRetornos(5 , 8);
+
+        System.out.println("resultado = " + resultado);
 
 
     }
